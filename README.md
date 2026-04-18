@@ -1,7 +1,9 @@
 # Hi 👋, I'm Ranya
 
 🎓 Student | Machine Learning & Data Science Enthusiast
+
 💻 Learning Python, ML, and Data Analysis
+
 🚀 Building projects and improving skills every day
 
 ## 🔧 Skills
