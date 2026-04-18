@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Ranya
+
+🎓 Student | Machine Learning & Data Science Enthusiast
+💻 Learning Python, ML, and Data Analysis
+🚀 Building projects and improving skills every day
+
+## 🔧 Skills
+
+* Python
+* Pandas, NumPy
+* Scikit-learn
 
 <!--
 **ranyasinha/ranyasinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
