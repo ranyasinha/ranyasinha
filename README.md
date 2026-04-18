@@ -12,6 +12,9 @@
 * Pandas, NumPy
 * Scikit-learn
 
+## 📫 Connect with me
+- 🔗 [LinkedIn](www.linkedin.com/in/ranya-420172307)
+
 <!--
 **ranyasinha/ranyasinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
