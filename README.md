@@ -11,6 +11,13 @@
 * Python
 * Pandas, NumPy
 * Scikit-learn
+* Java
+* Seaborn
+* Scikit-learn
+* Bootstrap
+* C
+* Data Science
+* Data Analysis
 
 ## 📫 Connect with me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ranya-420172307/)
