@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ranya
+# Hi, I'm Ranya
 
 🎓 Student | Machine Learning & Data Science Enthusiast
 
